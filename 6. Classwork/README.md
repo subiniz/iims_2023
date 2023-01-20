@@ -14,7 +14,7 @@ let books = {
 3. Also add the author `Francesc Miralles`.
 4. Add new key `language` and it\'s respective value to `english`. 
 5. Remove `isFree` from the object.
-5. Using a loop, iterate through the languages array and console.log all of the title.
+5. Using a loop, iterate through the title array and console.log all of the title.
 6. Now print the statement as follow:
    - Rich Dad Poor Dad was written by Robert Kiyosaki
    - Atomic Habits was written by James Clear
