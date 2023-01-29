@@ -4,6 +4,7 @@
     "description": "Just a project file",
     "license": "ISC",
     "dependencies": {
+        "nodemailer": "^6.9.1",
         "string-things": "^1.0.12"
     }
 }
