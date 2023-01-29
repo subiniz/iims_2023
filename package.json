@@ -1,0 +1,9 @@
+{
+    "name": "iims_jan",
+    "author": "Subin shakya",
+    "description": "Just a project file",
+    "license": "ISC",
+    "dependencies": {
+        "string-things": "^1.0.12"
+    }
+}
