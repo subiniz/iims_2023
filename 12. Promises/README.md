@@ -38,9 +38,6 @@ A promise is simply an object in js that represents the eventual completion or f
 - Callbacks are not easy to handle errors.
 - Callbacks are not easy to handle multiple asynchronous operations.
 
-#  when we need to use Promises
-
-
 # How to work with Promises?
 - Promise is a constructor function.
 - Promise takes a function as an argument.
